@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sinde530=anuraghazra&show_icons=false)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinde530&theme=dark&show_icons=true)
+
 
 
 <!--
