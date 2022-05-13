@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sinde530=anuraghazra&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sinde530=anuraghazra&show_icons=false)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinde530&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinde530&theme=radical&show_icons=true)
 
 
 
