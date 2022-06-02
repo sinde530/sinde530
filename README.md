@@ -31,19 +31,19 @@
 ```
 
 
- Last Updated on 02/06/2022 00:14:29 UTC
+<!--  Last Updated on 02/06/2022 00:14:29 UTC -->
 <!--END_SECTION:waka-->
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-![https://github.githubassets.com/images/mona-loading-default.gif](https://github.githubassets.com/images/mona-loading-default.gif)
+<!-- ![https://github.githubassets.com/images/mona-loading-default.gif](https://github.githubassets.com/images/mona-loading-default.gif) -->
 
-<div align="center" >
+<!-- <div align="center" > -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinde530&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinde530&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-</div>
+<!-- </div> -->
 
 <!--
 **sinde530/sinde530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
@@ -68,4 +68,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=white">
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
-</div>
+</div> -->
