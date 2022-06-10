@@ -56,7 +56,7 @@ No Activity Tracked This Week
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530)
 
 
 <!-- </div> -->
