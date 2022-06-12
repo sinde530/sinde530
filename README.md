@@ -35,12 +35,6 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="60%">
-</p>
-
-
 <!-- ### Hi there 👋 -->
 
 <!-- github images (gif) -->
