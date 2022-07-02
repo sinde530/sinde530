@@ -1,0 +1,41 @@
+{
+  "explorer.confirmDelete": false,
+  "files.associations": {
+    "*.tsx": "typescriptreact",
+    "*.jsx": "javascriptreact"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.folders.theme": "specific",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "git.autofetch": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editorAssociations": {
+    "*.js": "default"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "workbench.colorTheme": "GitHub Dark Default",
+  "prettier.printWidth": 100,
+  "terminal.integrated.fontFamily": "Hack",
+  "javascript.format.enable": false,
+  "typescript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+  "eslint.alwaysShowStatus": true,
+  "files.autoSave": "onFocusChange",
+  "go.toolsManagement.autoUpdate": true,
+  // 에러코드 색상 변경
+  "workbench.colorCustomizations": {
+    "editorError.foreground": "#00ff04"
+  },
+  "eslint.format.enable": true,
+  "editor.formatOnSave": false,
+  "prettier.singleQuote": true,
+  "editor.autoClosingQuotes": "never",
+  "workbench.startupEditor": "none",
+  "editor.tabSize": 2,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "sync.gist": "sinde530",
+}
