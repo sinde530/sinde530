@@ -33,7 +33,7 @@ No Activity Tracked This Week
 
 ```
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sinde530)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mirxx@naver.com)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
