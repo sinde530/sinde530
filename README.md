@@ -22,17 +22,6 @@ Sunday       21 commits     ░░░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sinde530)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
