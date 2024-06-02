@@ -43,7 +43,7 @@ Sunday       21 commits     ░░░░░░░░░░░░░░░░░�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530)
 
-<img src="https://lottie.host/embed/c2aaba53-acdd-495e-ad35-506203be212d/Ie7tg9HGTS.json"/>
+<img src="https://lottie.host/embed/c2aaba53-acdd-495e-ad35-506203be212d/Ie7tg9HGTS.json">
 
 <!-- </div> -->
 
