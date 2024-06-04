@@ -31,8 +31,6 @@ Sunday       21 commits     ░░░░░░░░░░░░░░░░░�
 <!-- github images (gif) -->
 <!-- ![https://github.githubassets.com/images/mona-loading-default.gif](https://github.githubassets.com/images/mona-loading-default.gif) -->
 
-<!-- <div align="center" > -->
-
 <!-- github stars -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinde530&theme=radical&show_icons=true)  -->
 
