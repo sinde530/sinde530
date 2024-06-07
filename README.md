@@ -1,18 +1,3 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sinde530)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ### Hi there 👋 -->
-
-<!-- github images (gif) -->
-<!-- ![https://github.githubassets.com/images/mona-loading-default.gif](https://github.githubassets.com/images/mona-loading-default.gif) -->
-
-<!-- github stars -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinde530&theme=radical&show_icons=true)  -->
-
-<!-- github language -->
-
-<br>
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530)
 
 <!-- </div> -->
