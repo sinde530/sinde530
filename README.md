@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530)
 
 <div align="center">
