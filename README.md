@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinde530)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530)
@@ -14,3 +12,5 @@
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=white">
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
