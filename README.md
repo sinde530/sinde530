@@ -1,4 +1,3 @@
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinde530)
 
 <div align="center">
